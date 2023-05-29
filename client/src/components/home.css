@@ -1,0 +1,121 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+  }
+#headH3{
+  padding: 8px;
+  background-color: #45a049;
+}
+  .container2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    color:black
+  }
+
+  .containerStatus{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+
+  }
+  .containerJobId {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    color: red
+  }
+  
+  
+  .input-field {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .submit-btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  
+  .submit-btn:hover {
+    background-color: #45a049;
+  }
+
+  .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .heading {
+    margin-top: 50px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .status {
+    color: blue; /* Default color */
+  }
+  
+  .status.success {
+    background-color: green; 
+    padding: 12px;
+    color: white;/* Color for success status */
+  }
+  
+  .status.error {
+    background-color: red;
+    padding: 12px;
+    color: white; /* Color for error status */
+  }
+  
+  .status.progress {
+    background-color:  orange;
+    padding: 12px;
+    color: white;  /* Color for pending status */
+  }
+
+
+  .download-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2196f3;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .download-btn:hover {
+    background-color: #0d8bf3;
+  }
+  
+  .download-btn:active {
+    background-color: #0a6ac9;
+  }
+  
+  .download-btn:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px #2196f3;
+  }
+
+  .video {
+    width: 400px; /* Set the desired width */
+    height: 300px; /* Set the desired height */
+  }
+  
+  
