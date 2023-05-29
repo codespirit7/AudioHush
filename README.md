@@ -8,9 +8,9 @@ This web application allows users to reduce background noise from videos by leve
 
 2. Install dependencies:
 
-3. Start the server:
+3. Start the express server, redis server and react application:
 
-4. Access the web application in your browser at `http://localhost:3000`.
+4. Access the web application in your browser.
 
 ##User Interface 
 
