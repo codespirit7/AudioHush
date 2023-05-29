@@ -12,6 +12,12 @@ This web application allows users to reduce background noise from videos by leve
 
 4. Access the web application in your browser at `http://localhost:3000`.
 
+##User Interface 
+
+![Screenshot from 2023-05-29 16-19-17-1](https://github.com/codespirit7/AudioHush/assets/88592710/415d934a-0708-4dd2-b32a-3648b4d59f32)
+![Screenshot from 2023-05-29 16-19-17](https://github.com/codespirit7/AudioHush/assets/88592710/882b8e6c-8bb1-4904-943d-4e14395378ef)
+
+
 ## How it Works
 
 1. **Upload a Video**: Users should provide a direct link to the video file. Links from services like Google Drive or Dropbox.
