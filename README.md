@@ -41,7 +41,7 @@ The project is built using the following technologies and tools:
 - **Background Job Processor**: To handle asynchronous processing, we utilize a background job processor such as [Bull](https://github.com/OptimalBits/bull). You can choose the one that suits your requirements.
 
 - **Redis**: Redis is integrated to support the background job processing and task management.
-- 
+
 - **ffmpeg**: The `ffmpeg` command line tool is employed to remove noise from the videos.
 
 ## License
