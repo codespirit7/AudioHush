@@ -15,7 +15,7 @@ This web application allows users to reduce background noise from videos by leve
 ##User Interface 
 
 ![Screenshot from 2023-05-29 16-19-17-1](https://github.com/codespirit7/AudioHush/assets/88592710/415d934a-0708-4dd2-b32a-3648b4d59f32)
-![Screenshot from 2023-05-29 16-19-17](https://github.com/codespirit7/AudioHush/assets/88592710/882b8e6c-8bb1-4904-943d-4e14395378ef)
+![Screenshot from 2023-05-29 16-20-40](https://github.com/codespirit7/AudioHush/assets/88592710/cfcdb97f-85db-4d4c-ab56-738ab068b1d2)
 
 
 ## How it Works
