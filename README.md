@@ -50,5 +50,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Acknowledgements
 
-I would like to express our gratitude to the developers of `ffmpeg` and the background job processors mentioned above. Their invaluable tools and contributions make this project possible.
+I would like to express my gratitude to the developers of `ffmpeg` and the `bull`. Their invaluable tools and contributions make this project possible.
 
